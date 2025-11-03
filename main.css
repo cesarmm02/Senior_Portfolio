@@ -29,9 +29,6 @@
 html,body{
 	height: 99%;
 	width: 99%;
-	background-image: url("images/background.jpg");
-  	background-repeat: no-repeat;
-  	background-size: cover;
 	font-family: "Concert One", sans-serif;
 }
 *{
@@ -47,7 +44,6 @@ border: 0px solid #8093F1;
   background-repeat: no-repeat;
   background-size: 100% 650px;
 	*/
-  background-color: rgb(101, 172, 195, 0.5);
   height: 500px;
   width: 100%;
   text-align: center;
@@ -79,21 +75,21 @@ li {
 	color: white;
   }
   li a:hover{
-	border: 0px solid #553772;
+	border: 0px solid;
 	border-radius: 12px;
-	background-color: #f5487f;
+
   }
   div{
 	padding: 5px 16px;
-	background-color: #553772;
-	border: 0px solid #553772;
+
+	border: 0px solid;
 	border-radius: 12px;
 	text-align: center; 
   }
   li a {
 	transition: background-color 1s;
 	display: block;
-	border: 0px solid #553772;
+	border: 0px solid;
 	border-radius: 12px;
 	color: white;
 	text-align: center;
@@ -110,11 +106,10 @@ li {
 .container{
 	color: white;
   position: relative;
-  border: 0px solid #B388EB;
+  border: 0px solid;
   border-radius: 12px;
   margin-top: 10px;
   padding: 20px 24px;
-  background-color: rgb(30, 108, 161, 0.5);
 .container h2{
   font-size: 3em;
 }
@@ -124,7 +119,6 @@ li {
 }
 .wave{
 	border: red 1px solid;
-	background-color: rgba(255,34,45, 0.5);
 	font-size: 1em;
 	height: 25px;
 	overflow: hidden;
@@ -135,7 +129,7 @@ li {
 	display:block;
 }
 #l1{
-	border:#afd69b 1px solid;
+	border: 1px solid;
 	background-image:repeating-linear-gradient(red, green);
 }
 .wave:hover{
@@ -147,7 +141,6 @@ li {
 	position: absolute;
 	top: 50px;
 	left: 70px;
-	color:#5f9ea0;
 	font-family: 'M PLUS Rounded 1c', sans-serif;
 	font-size: 2em;
 	text-shadow: 2px 2px #317873;
@@ -157,7 +150,6 @@ li {
 }
 .menu a{
 	color: #a0d6b4;
-	background-color: #317873;
 	text-shadow: 0px 0px ;
 	font-size: 0.5em;
 
@@ -218,34 +210,6 @@ li {
 #cfu9:hover, #cfu10:hover{
 	height:850px;
 }
-
-#cfu2{
-	background-color:#643973;
-}
-#cfu3{
-	background-color:#723A74;
-}
-
-#cfu5{
-	background-color:#643973;
-}
-#cfu6{
-	background-color:#723A74;
-}
-#cfu8{
-	background-color:#643973;
-}
-#cfu9{
-	background-color:#723A74;
-}
-
-#cfu11{
-	background-color:#643973;
-}
-#cfu12{
-	background-color:#723A74;
-}
-
 .active{
 	background-color: #8f3b76;
 	border: 0px solid #553772;
