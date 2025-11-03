@@ -1,3 +1,12 @@
+/*
+Color Palette
+#ffffff
+#676fgd
+#424769
+#2d3250
+#fgb17a
+*/
+
 /*google fonts*/
 .concert-one-regular {
   font-family: "Concert One", sans-serif;
@@ -30,6 +39,7 @@ html,body{
 	height: 99%;
 	width: 99%;
 	font-family: "Concert One", sans-serif;
+	background-color: #2d3250;
 }
 *{
 	box-sizing: border-box;
