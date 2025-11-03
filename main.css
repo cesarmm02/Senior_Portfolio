@@ -1,6 +1,6 @@
 /*
 Color Palette
-#ffffff
+#E0E6FF
 #676fgd
 #424769
 #2d3250
@@ -43,6 +43,7 @@ html,body{
 }
 *{
 	box-sizing: border-box;
+	color: #E0E6FF;
 }
 .banner{
 border: 0px solid #8093F1;
