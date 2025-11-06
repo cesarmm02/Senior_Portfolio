@@ -29,6 +29,10 @@ html,body{
 *{
 	box-sizing: border-box;
 	color: #E0E6FF;
+	font-family: "Raleway", sans-serif;
+  	font-optical-sizing: auto;
+  	font-weight: 400;
+  	font-style: normal;
 }
 .banner{
 border: 0px solid #8093F1;
