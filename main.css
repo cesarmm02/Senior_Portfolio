@@ -11,29 +11,11 @@ Color Scheme:
 */
 
 /*google fonts*/
-.concert-one-regular {
-  font-family: "Concert One", sans-serif;
-  font-weight: 400;
-  font-style: normal;
-}
-.permanent-marker-regular {
-  font-family: "Permanent Marker", cursive;
-  font-weight: 400;
-  font-style: normal;
-}
-.jacquard-24-regular {
-  font-family: "Jacquard 24", system-ui;
-  font-weight: 400;
-  font-style: normal;
-}
-.mansalva-regular {
-  font-family: "Mansalva", sans-serif;
-  font-weight: 400;
-  font-style: normal;
-}
-.wallpoet-regular {
-  font-family: "Wallpoet", sans-serif;
-  font-weight: 400;
+
+.raleway-<uniquifier> {
+  font-family: "Raleway", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
   font-style: normal;
 }
 /*end of google fonts*/
@@ -225,7 +207,7 @@ li {
 	height:850px;
 }
 .active{
-	background-color: #8f3b76;
+	background-color: #f9b17a;
 	border: 0px solid #553772;
 	border-radius: 12px;
   }
