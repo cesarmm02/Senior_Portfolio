@@ -3,11 +3,11 @@ newspaper article vibes
 FULL CREDIT TO NAFISA™
 OR
 Color Scheme:
-##e8dae1
+#E0E6FF
 #676f9d
 #424769
 #2d3250
-##f9b17a
+#f9b17a
 */
 
 /*google fonts*/
@@ -67,8 +67,8 @@ h1{
 	font-size: 1em;
 }
 ul {
-  background-color: rgb(101, 172, 195, 0.5);
-  color: #c7417b;
+  background-color: #f9b17a;
+  color: #E0E6FF;
   list-style-type: none;
   margin: 0;
   padding: 0;
