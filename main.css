@@ -40,19 +40,20 @@ html,body{
   	font-style: normal;
 }
 .banner{
-border: 0px solid #8093F1;
-  border-radius: 12px;
-  position: relative;
-  margin-top: 0px;
+	border: 0px solid #8093F1;
+  	border-radius: 12px;
+  	position: relative;
+  	margin-top: 0px;
 	/*
-  background-image: url("images/triang.png");
-  background-repeat: no-repeat;
-  background-size: 100% 650px;
+  	background-image: url("images/triang.png");
+  	background-repeat: no-repeat;
+  	background-size: 100% 650px;
 	*/
-  height: 500px;
-  width: 100%;
-  text-align: left;
-  font-size: 24px;
+  	height: 500px;
+  	width: 100%;
+  	text-align: left;
+  	font-size: 24px;
+	line-height: 0.5;
 }
 
 ul {
