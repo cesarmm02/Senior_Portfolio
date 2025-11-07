@@ -64,7 +64,16 @@ body{
         line-height: 2px;
         font-size: 35px
 }
-
+.menu{
+        position: absolute;
+        top: 50px;
+        left: 70px;
+        font-size: 2em;
+        text-shadow: 2px 2px #317873;
+        font-style: oblique;
+        width: 100px;
+        overflow: hidden
+}
 ul {
   color: #E0E6FF;
   list-style-type: none;
@@ -81,6 +90,8 @@ li {
         font-size: 1.5em;
         border: 0px solid;
         border-radius: 12px;
+        margin: 5px 16px;
+        font-size: 35px;
   }
   a {
         text-decoration: none;
