@@ -57,7 +57,6 @@ html,body{
 }
 
 ul {
-  background-color: #f9b17a;
   color: #E0E6FF;
   list-style-type: none;
   margin: 0;
@@ -67,9 +66,12 @@ ul {
   top: 0;
 }
 li {
+	background-color: #424769;
 	display: inline;
 	float: left;
 	font-size: 1.5em;
+	border: 0px solid;
+	border-radius: 12px;
   }
   a {
 	text-decoration: none;
