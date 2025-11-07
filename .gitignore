@@ -1,0 +1,13 @@
+# Replit
+.replit
+.upm/
+.pythonlibs/
+.cache/
+.local/
+.config/
+
+# System
+.DS_Store
+*.swp
+*.swo
+*~
