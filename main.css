@@ -62,7 +62,8 @@ body{
 
 .banner p{
         line-height: 2px;
-        font-size: 35px
+        font-size: 35px;
+        font-weight: 400;
 }
 .menu{
         position: absolute;
@@ -75,7 +76,7 @@ body{
         overflow: hidden
 }
 ul {
-  color: #E0E6FF;
+  color: #2d3250;
   list-style-type: none;
   margin: 0;
   padding: 0;
@@ -84,7 +85,7 @@ ul {
   top: 0;
 }
 li {
-        background-color: #424769;
+        background-color: #f9b17a;
         display: inline;
         float: left;
         font-size: 1.5em;
@@ -95,10 +96,10 @@ li {
   }
   a {
         text-decoration: none;
-        color: white;
+        color: #2d3250;
   }
   a:visited{
-        color: white;
+        color: #2d3250;
   }
   li a:hover{
         border: 0px solid;
@@ -117,10 +118,11 @@ li {
         display: block;
         border: 0px solid;
         border-radius: 12px;
-        color: white;
+        color: #2d3250;
         text-align: center;
         padding: 14px 16px;
         text-decoration: none;
+        font-weight: 400;
   }
 #logo{
         width: 200px;
