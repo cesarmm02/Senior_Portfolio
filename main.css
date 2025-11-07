@@ -60,8 +60,9 @@ body{
   	font-size: 24px;
 }
 
-.banner h2, h4{
+.banner p{
 	line-height: 0.2;
+	font-size: 50px
 }
 
 ul {
