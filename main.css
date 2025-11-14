@@ -93,6 +93,7 @@ li {
         border-radius: 12px;
         margin: 5px 16px;
         font-size: 35px;
+        box-shadow: 0 0 15px 5px rgba(249, 177, 122, 0.75);
   }
   a {
         text-decoration: none;
