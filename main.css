@@ -75,7 +75,7 @@ body{
         width: 100px;
         overflow: hidden
 }
-.main_nav ul {
+ul {
   color: #2d3250;
   list-style-type: none;
   margin: 0;
@@ -248,4 +248,7 @@ body{
         background-color: #424769;
         border: 0px solid #553772;
         border-radius: 12px;
+}
+.nav ul {
+        color: #E0E6FF;
 }
