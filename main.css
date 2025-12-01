@@ -98,6 +98,7 @@ ul {
   }
   a {
         text-decoration: none;
+  }
   li a:hover{
         border: 0px solid;
         border-radius: 12px;
