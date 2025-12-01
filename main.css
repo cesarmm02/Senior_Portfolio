@@ -139,60 +139,16 @@ ul {
   border-radius: 12px;
   margin-top: 10px;
   padding: 20px 24px;
-        background-color: #424769;
+  background-color: #424769;
+}
 .container h2{
   font-size: 3em;
 }
 .container h3{
   font-size: 2em;
 }
-}
-.wave{
-        border: red 1px solid;
-        font-size: 1em;
-        height: 25px;
-        overflow: hidden;
-        width: 80%;
-        position:relative;
-        left: 10%;
-        transition: height 4s;
-        display:block;
-}
-#l1{
-        border: 1px solid;
-        background-image:repeating-linear-gradient(red, green);
-}
-.wave:hover{
-        height:90%;
-        top:1px;
-        z-index:1;
-}
-.menu{
-        position: absolute;
-        top: 50px;
-        left: 70px;
-        font-size: 2em;
-        text-shadow: 2px 2px #317873;
-        font-style: oblique;
-        width: 100px;
-        overflow: hidden;
-}
-.menu a{
-        color: #a0d6b4;
-        text-shadow: 0px 0px ;
-        font-size: 0.5em;
 
-        padding: 1px;
-        border: 1px solid red;
-        display: none;
-}
-.menu:hover a{
-        display: block;
-}
-.menu a:hover{
-        color: yellow;
-        background-color: navy;
-}
+
 .left{
         width: 48%;
         position:absolute;
@@ -216,27 +172,6 @@ ul {
         text-align:center;
 
 }
-.drop{
-  height: 80px;
-  width: 80%;
-  position: relative;
-  left: 10%;
-  transition: height 2s;
-  display: block;
-  overflow: hidden;
-  padding-left: 5px;
-  padding-right: 5px;
-}
-.drop:hover{
-  height: 750px;
-  z-index: 1;
-}
-#cfu5:hover, #cfu6:hover, #cfu7:hover, #cfu12:hover{
-        height:800px;
-}
-#cfu9:hover, #cfu10:hover{
-        height:850px;
-}
 .active{
         background-color: #f9b17a;
         border: 0px solid #553772;
@@ -251,5 +186,5 @@ ul {
 }
 .nav ul {
         color: #E0E6FF;
-        float: right;
+        text-align: right;
 }
