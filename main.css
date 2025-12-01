@@ -75,7 +75,7 @@ body{
         width: 100px;
         overflow: hidden
 }
-ul {
+.main_nav ul {
   color: #2d3250;
   list-style-type: none;
   margin: 0;
@@ -84,7 +84,7 @@ ul {
   position: sticky;
   top: 0;
 }
-li {
+.main_nav li {
         background-color: #F7A15C;
         display: inline;
         float: left;
@@ -242,7 +242,7 @@ li {
         border: 0px solid #553772;
         border-radius: 12px;
   }
-nav {
+.nav {
         position: sticky;
         top: 0;
         background-color: #424769;
