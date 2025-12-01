@@ -86,6 +86,7 @@ ul {
 }
 .main_nav li {
         background-color: #F7A15C;
+        color: #2d3250;
         display: inline;
         float: left;
         font-size: 1.5em;
@@ -97,9 +98,6 @@ ul {
   }
   a {
         text-decoration: none;
-  }
-  a:visited{
-  }
   li a:hover{
         border: 0px solid;
         border-radius: 12px;
