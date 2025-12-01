@@ -97,10 +97,8 @@ ul {
   }
   a {
         text-decoration: none;
-        color: #2d3250;
   }
   a:visited{
-        color: #2d3250;
   }
   li a:hover{
         border: 0px solid;
@@ -117,7 +115,6 @@ ul {
         display: block;
         border: 0px solid;
         border-radius: 12px;
-        color: #2d3250;
         padding: 14px 16px;
         text-decoration: none;
         font-weight: 400;
