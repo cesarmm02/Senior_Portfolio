@@ -109,10 +109,8 @@ ul {
   }
   div{
         padding: 5px 16px;
-
         border: 0px solid;
         border-radius: 12px;
-        text-align: center; 
   }
   li a {
         transition: background-color 1s;
