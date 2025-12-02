@@ -118,13 +118,6 @@ ul {
         text-decoration: none;
         font-weight: 400;
   }
-#logo{
-        width: 200px;
-        height: 200px;
-        position: absolute;
-        top: 50px;
-        right: 260px;
-}
 .container{
         color: white;
   position: relative;
@@ -184,5 +177,5 @@ ul {
 }
 #icon {
         display: inline-block;
-        margin: 2px 2px 2px 2px;
+        margin: 10px 1px;
 }
