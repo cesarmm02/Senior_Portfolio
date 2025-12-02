@@ -181,6 +181,7 @@ ul {
         color: #E0E6FF;
         display: inline-block;
 }
-#logo {
+#icon {
         display: inline-block;
+        margin: 2px 2px 2px 2px;
 }
