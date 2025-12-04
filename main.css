@@ -178,4 +178,6 @@ ul {
 #icon {
         display: inline-block;
         margin: 10px 10px;
+        border: 0px solid #553772;
+        border-radius: 100%;
 }
