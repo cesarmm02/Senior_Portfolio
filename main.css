@@ -175,6 +175,11 @@ ul {
         color: #E0E6FF;
         display: inline-block;
 }
+.nav li {
+        color: #E0E6FF;
+        display: inline;
+        float: left;
+}
 #icon {
         display: inline-block;
         margin: 10px 10px;
