@@ -194,3 +194,6 @@ ul {
 p {
         font-size: 25px;
 }
+#resume {
+      border: 2px black solid;
+}
