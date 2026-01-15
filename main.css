@@ -82,7 +82,7 @@ ul {
   padding: 0;
   overflow: hidden;
   position: sticky;
-  z-index: 1;
+  z-index: 99;
   border: 2px #c06c83 solid;
   top: 0;
 }
