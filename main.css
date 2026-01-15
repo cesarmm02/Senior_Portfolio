@@ -85,7 +85,7 @@ ul {
   top: 0;
 }
 .main_nav li {
-        background-color: #fcb090;
+        background-color: #c06c83;
         color: #2d3250;
         display: inline;
         float: left;
@@ -94,7 +94,7 @@ ul {
         border-radius: 12px;
         margin: 5px 16px;
         font-size: 35px;
-        box-shadow: 0 0 15px 5px rgba(252, 176, 144, 0.75);
+        box-shadow: 0 0 15px 5px rgba(192, 108, 131, 0.75);
   }
   a {
         text-decoration: none;
