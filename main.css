@@ -83,7 +83,7 @@ ul {
   overflow: hidden;
   position: sticky;
   z-index: 1;
-  border: 2px #c06c83; solid;
+  border: 2px #c06c83 solid;
   top: 0;
 }
 .main_nav li {
