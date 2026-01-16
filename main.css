@@ -145,17 +145,19 @@ ul {
 .left{
         width: 48%;
         display: block;
-        left: 5px;
+        float: left;
         height: 500px;
 }
 .right{
         width:48%;
-        right:5px;
+        float: right;
         display: block;
         height: 500px;
 }
 .left img {
         display: block;
+        margin: 10px;
+        border: 2px solid #c06c83;
 }
 
 .active{
