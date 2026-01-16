@@ -199,3 +199,6 @@ p {
 #resume {
       border: 2px black solid;
 }
+h4 {
+        text-decoration: underline;
+}
