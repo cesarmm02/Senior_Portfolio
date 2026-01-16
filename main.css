@@ -142,17 +142,17 @@ ul {
 
 
 
+.row {
+  display: flex;
+}
+
 .left{
-        width: 48%;
+        flex: 1;
         display: block;
-        float: left;
-        height: 500px;
 }
 .right{
-        width:48%;
-        float: right;
+        flex: 1;
         display: block;
-        height: 500px;
 }
 .left img {
         display: block;
@@ -168,7 +168,7 @@ ul {
         position: sticky;
         top: 0;
         background-color: #424769;
-        border: 2px solid #553772;
+        border: 5px solid #355c7d;
         border-radius: 12px;
         padding: 10px 10px;
         z-index: 99;
