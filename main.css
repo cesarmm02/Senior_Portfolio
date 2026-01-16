@@ -153,8 +153,11 @@ ul {
         right:5px;
         display: block;
         height: 500px;
-
 }
+.right img {
+        display: block;
+}
+
 .active{
         border: 0px solid #553772;
         border-radius: 12px;
