@@ -83,7 +83,6 @@ ul {
   overflow: hidden;
   position: sticky;
   z-index: 99;
-  border: 2px #c06c83 solid;
   top: 0;
 }
 .main_nav li {
@@ -145,25 +144,13 @@ ul {
 
 .left{
         width: 48%;
-        position:absolute;
+        display: block;
         left: 5px;
-        background-color: salmon;
-        color: ghostwhite;
-        border:2px ghostwhite;
-        border-radius:5%;
-        font-size:2em;
-        text-align:center;
 }
 .right{
         width:48%;
-        position: absolute;
         right:5px;
-        background-color: salmon;
-        color: ghostwhite;
-        border:2px ghostwhite;
-        border-radius:5%;
-        font-size:2em;
-        text-align:center;
+        display: block;
 
 }
 .active{
