@@ -146,11 +146,13 @@ ul {
         width: 48%;
         display: block;
         left: 5px;
+        height: 500px;
 }
 .right{
         width:48%;
         right:5px;
         display: block;
+        height: 500px;
 
 }
 .active{
