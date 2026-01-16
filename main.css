@@ -139,9 +139,6 @@ ul {
   font-size: 1.7em;
 }
 
-
-
-
 .row {
   display: flex;
 }
@@ -168,7 +165,7 @@ ul {
         position: sticky;
         top: 0;
         background-color: #424769;
-        border: 5px solid #f4b298;
+        border: 5px solid #2d3250;
         border-radius: 12px;
         padding: 10px 10px;
         z-index: 99;
